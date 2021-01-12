@@ -3,6 +3,7 @@ import React from "react";
 import Form from "./components/form";
 
 import "./App.css";
+import Main from "./components/form/Main";
 
 const handleSubmit = (user) => {
   setTimeout(() => {
@@ -14,7 +15,9 @@ const initialValues = {};
 
 const App = () => (
   <div className="App">
-    <Form handleSubmit={handleSubmit} initialValues={initialValues} />
+    <Main>
+      <Form handleSubmit={handleSubmit} initialValues={initialValues} />
+    </Main>
   </div>
 );
 
