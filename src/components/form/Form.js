@@ -28,6 +28,7 @@ const Form = ({ handleSubmit, initialValues }) => {
 
         <div className="Form-Group">
           <Field
+            autoFocus
             className="Form-Field"
             name="name"
             placeholder="Nome"
