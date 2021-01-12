@@ -31,7 +31,7 @@ const Form = ({ handleSubmit, initialValues }) => {
             autoFocus
             className="Form-Field"
             name="name"
-            placeholder="Nome"
+            placeholder="nome"
             type="text"
           />
           <ErrorMessage className="Form-Error" component="span" name="name" />
@@ -51,7 +51,7 @@ const Form = ({ handleSubmit, initialValues }) => {
           <Field
             className="Form-Field"
             name="password"
-            placeholder="Senha"
+            placeholder="senha"
             type="password"
           />
           <ErrorMessage
