@@ -40,7 +40,7 @@ const Form = ({ handleSubmit, initialValues }) => {
           <Field
             className="Form-Field"
             name="user"
-            placeholder="usuario@example.com"
+            placeholder="usuário@example.com"
             type="text"
           />
           <ErrorMessage className="Form-Error" component="span" name="user" />
