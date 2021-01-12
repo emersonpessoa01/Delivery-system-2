@@ -46,11 +46,12 @@
 }
 
 .Form-Btn:focus {
-  outline: none;
+  /* outline: none; */
+  border-color: rgb(21,4,98)
 }
 
 .Form-Btn:hover {
-  background: #00111a;
+  background: rgb(21,4,98);
   cursor: pointer;
 }
 

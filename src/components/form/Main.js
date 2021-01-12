@@ -6,6 +6,11 @@ const Main = styled.main`
   border-radius: 5px;
   opacity: .5s;
 
+  @media screen and (max-width:768px){
+    width: 50%;
+  }
+
+  
 
 `;
 export default Main;
