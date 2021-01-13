@@ -30,7 +30,7 @@
 }
 
 .Form-Field:focus {
-  box-shadow: 0 0 7px rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 7px rgba(4, 24, 98, 0.5);
   border-color: #002233;
   outline: none;
 }
@@ -42,7 +42,7 @@
   color: #fdfdfd;
   margin-top: 1rem;
   padding: 0.5rem;
-  transition: background 0.2s linear;
+  transition: background 0.5s linear;
 }
 
 .Form-Btn:focus {
@@ -53,6 +53,8 @@
 .Form-Btn:hover {
   background: rgb(21,4,98);
   cursor: pointer;
+  box-shadow: 0 0 7px rgba(2, 255, 255, 0.9);
+
 }
 
 .Form-Group {
