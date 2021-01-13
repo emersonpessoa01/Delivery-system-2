@@ -5,6 +5,7 @@ const Main = styled.main`
   padding: 20px 30px;
   border-radius: 5px;
   opacity: .5s;
+  font-family: kollektif;
 
   @media screen and (max-width:768px){
     width: 50%;
