@@ -1,6 +1,6 @@
 import React from "react";
 
-// import "./App.css";
+import "./App.css";
 
 export default function App() {
   return (
@@ -8,10 +8,10 @@ export default function App() {
       <div className="container">
         <div className="content first-content">
           <div className="first-column">
-            <h2 className="title">welcome back </h2>
+            <h2 className="title title-primary">Welcome back </h2>
             <p className="description">To keep connect with us</p>
             <p className="description">Please login with your personal info</p>
-            <button className="btn">sign in</button>
+            <button className="btn btn-primary">sign in</button>
           </div>
           {/*first-column*/}
 
@@ -19,7 +19,7 @@ export default function App() {
             <h2 className="title">Create account</h2>
 
             <div className="social-media">
-              <ul>
+              <ul className="list-social-media">
                 <li>
                   <a href="https://pt-br.facebook.com/login/">Facebook</a>
                 </li>
