@@ -1,6 +1,6 @@
+// Helper styles for demo
+import "./Helper.css";
 import React from "react";
-
-// import "./App.css";
 
 export default function App() {
   return (
