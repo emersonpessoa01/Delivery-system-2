@@ -35,14 +35,16 @@ body {
 
     left: 0;
 }
-.title {
+.title::first-letter {
     font-size: 28px;
     font-weight: bold;
     text-transform: capitalize;
+
 }
 .title-primary {
     color: #fff;
 }
+
 .title-second {
     color:  #563d7c;
 }
