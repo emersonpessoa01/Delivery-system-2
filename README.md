@@ -1,4 +1,4 @@
-### Preview: [Delivery-system-2](https://app.netlify.com/sites/delivery-system-2/settings/domain)
+### Preview: [Delivery-system-2](https://delivery-system-2.netlify.app/)
 
 ### <u>Descrição</u>:
 #### Esta aplicação consiste basicamente em criar um sistema de entrega de produtos. Onde apresente as seguintes funcionalidades:<br>

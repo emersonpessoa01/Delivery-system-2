@@ -9,7 +9,7 @@ export default function App() {
           <div className="first-column">
             <h2 className="title title-primary">bem-vindo de volta!</h2>
             <p className="description description-primary">
-            Para se manter conectado conosco
+            para se manter conectado conosco
             </p>
             <p className="description description-primary">
             por favor faça o login com suas informações pessoais
