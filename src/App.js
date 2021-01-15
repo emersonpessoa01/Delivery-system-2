@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./App.css";
+// import "./App.css";
 
 export default function App() {
   return (
@@ -115,7 +115,7 @@ export default function App() {
                 <input type="password" placeholder="Password" />
               </label>
 
-              <a className="password" href="#">
+              <a className="password" href="https://www.google.com">
               Esqueceu sua senha?
               </a>
               <button className="btn btn-second">sign in</button>
